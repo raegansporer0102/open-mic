@@ -56,13 +56,7 @@ const Index = () => {
           description="View your registration status and booking details."
         />
       </div>
-      <FeatureCard
-          title="Admin Panel Login"
-          price="Admin"
-          route="/admin"
-          description="Approve and Decline the Trasactions."
-        />
-      </div>
+      
 
       <div className="text-center text-sm text-muted-foreground mt-8">
         <p>Need help? Contact our support team</p>
